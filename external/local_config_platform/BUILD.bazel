@@ -1,0 +1,6 @@
+# DO NOT EDIT: automatically generated BUILD file for local_config_platform
+load(':constraints.bzl', 'HOST_CONSTRAINTS')
+platform(name = 'host',
+  # Auto-detected host platform constraints.
+  constraint_values = HOST_CONSTRAINTS,
+)

@@ -1,0 +1,5 @@
+bdf7e867c2d52031b7fea17f70f671f5
+$MANAGED 
+FILE://third_party:sqlite.BUILD c946610ba19b5321b33e88af93c7351af3fc723c2d1af68947927a4be7234fb4
+FILE://third_party/systemlibs:sqlite.BUILD a47a1f314ff4ae46e2cce9202132f0cfa570e1e4cb33b64babc82bc7cf61ea50
+ENV:TF_SYSTEM_LIBS \0

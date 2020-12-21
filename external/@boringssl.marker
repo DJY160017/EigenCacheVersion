@@ -1,0 +1,4 @@
+8890dd96b95f21f3f51f2edd5ca0c91f
+$MANAGED 
+FILE://third_party/systemlibs:boringssl.BUILD 1401dc5586ae2e7e57cacf9f185f15c8d5639bdec507c85c5e5578da50dde622
+ENV:TF_SYSTEM_LIBS \0

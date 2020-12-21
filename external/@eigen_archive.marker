@@ -1,0 +1,5 @@
+ba81610d8169ca6947a07d2bfcb9bf52
+$MANAGED 
+ENV:TF_SYSTEM_LIBS \0
+FILE://third_party:eigen.BUILD ae40a6915d89310317ee8cf0dd7a2f82fa89c0dcbf80991176d5589948d47423
+FILE://third_party/eigen3:gpu_packet_math.patch d98c2720a7c9cf7bb0eb7d1ae34247fc8f656a7dbce556ee3d7b17f1e0a65821

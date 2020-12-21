@@ -1,0 +1,5 @@
+ff804d95fc2e1bd45ae16cb2517c124f
+FILE://third_party/systemlibs:double_conversion.BUILD d3de29a5cd1c10c6ef6c524ce0e5d14ed15edb9f9b3cf48ea1a20c16768dff94
+FILE://third_party:double_conversion.BUILD 22d954aaa62bb2119e635e6be1f832b2d5c8a4043413903bdd260f118a6cbadc
+$MANAGED 
+ENV:TF_SYSTEM_LIBS \0

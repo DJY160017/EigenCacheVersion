@@ -1,0 +1,4 @@
+6249a98c745189cbcf7ce98f004e7dc6
+$MANAGED 
+ENV:WINDIR \0
+ENV:PATH /home/byron/bin:/usr/java/jdk1.8.0_231/bin:/usr/java/jdk1.8.0_231/jre/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/byron/bin

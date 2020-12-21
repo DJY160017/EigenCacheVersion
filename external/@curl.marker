@@ -1,0 +1,5 @@
+14a98c7d3a9a5ffdfc4edb0d94fde9de
+$MANAGED 
+FILE://third_party:curl.BUILD c23bc2f376c3208007c016d04aa21a0a2d009f3e6b5331fa2bf7360055a0350f
+ENV:TF_SYSTEM_LIBS \0
+FILE://third_party/systemlibs:curl.BUILD 56074d061f7df947ac7d2ca4f768f6d5af111c55a55cd9f599026f6e86bc5a73

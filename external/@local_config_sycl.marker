@@ -1,0 +1,6 @@
+0afe04b6d43fed052d86287e7bfe9be6
+FILE://third_party/sycl/sycl:platform.bzl.tpl e6172361e5d9b148e5da781a4b174abe1d87abc7c183913ed93811667f374c14
+FILE://third_party/sycl/sycl:LICENSE.text 8832ac22592734e307154bf2274b1439573baa0f664a773d3f0ad647c9207ac3
+$MANAGED 
+FILE://third_party/sycl/sycl:build_defs.bzl.tpl 61a82f0fa6c119ba0ea1b7d6290c2002d437a9447d6d16017ac84841fe6c068e
+FILE://third_party/sycl/sycl:BUILD.tpl 21a2790947122918b55266e628a69c64f3db9dcd33d06eaa4a0573a336f1d66e

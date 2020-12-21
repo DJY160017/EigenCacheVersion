@@ -1,0 +1,6 @@
+0339a9bc0105adafde5482100401f703
+FILE://third_party:png.BUILD ed71404a314600a1f98a6c5294b348c9821db45acb7fca0ecefc0a84e61f6bd0
+$MANAGED 
+ENV:TF_SYSTEM_LIBS \0
+FILE://third_party:png_fix_rpi.patch be855d6ee25203864304133349f3a6e9e55c5888672ab5b37b0ed2b9e18e4a13
+FILE://third_party/systemlibs:png.BUILD 2cb9a628c144a49ec00c9699ff98538b7a5d894298a89a0ada7fd231d9265f29

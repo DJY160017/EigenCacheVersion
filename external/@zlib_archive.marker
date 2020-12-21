@@ -1,0 +1,5 @@
+c3ee60a6f14dea03736103a2cca87145
+FILE://third_party:zlib.BUILD 700c506038432b5dcce51e0e130d0c55301fcf8c1e6e198124cb1a8ccad2bdd5
+$MANAGED 
+FILE://third_party/systemlibs:zlib.BUILD dfc302fe96f8a0d8c1c4bc3772bce44d2e1870e84b51ce98393b5729deb47a7a
+ENV:TF_SYSTEM_LIBS \0

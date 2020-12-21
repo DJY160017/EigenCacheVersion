@@ -1,0 +1,5 @@
+ee3ee74c67782633c8c9d56a640b6bf5
+$MANAGED 
+FILE://third_party/systemlibs:protobuf.BUILD 4752adf243516eb943d0b49a65e6b90e710a66003ef738cb9d4f35712ad80033
+ENV:TF_SYSTEM_LIBS \0
+FILE://third_party/protobuf:protobuf.patch e828836175885b6d30d1ec73ca8d429e82ab1713e0b73e3983a5cc13ff2bbc5b

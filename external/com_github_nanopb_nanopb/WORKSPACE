@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for tf_http_archive rule
+workspace(name = "com_github_nanopb_nanopb")

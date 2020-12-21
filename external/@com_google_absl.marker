@@ -1,0 +1,4 @@
+3ddfdca71dddfb98fbe936e4d6f04f75
+FILE://third_party:com_google_absl.BUILD fffe3f30e1474464e51b0bc775e3ec6881eb14c0cf9a4153e0e6cd1fa2775dda
+$MANAGED 
+ENV:TF_SYSTEM_LIBS \0

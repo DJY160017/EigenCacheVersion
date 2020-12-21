@@ -1,0 +1,5 @@
+ff5625e4caf68dfc47e84ecd6b1290e9
+FILE://third_party:jsoncpp.BUILD d23a8342814aca292819709af1601bf3c8d66a0487504913e5ff486c1c697c2f
+FILE://third_party/systemlibs:jsoncpp.BUILD 47001839e30436dd287b55c3df8c655dfd6da893319d928acbd1c7cbc711dbf2
+$MANAGED 
+ENV:TF_SYSTEM_LIBS \0

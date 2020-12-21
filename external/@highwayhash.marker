@@ -1,0 +1,4 @@
+3375b6656507d52fe222af07fcff4c1a
+$MANAGED 
+FILE://third_party/highwayhash:BUILD.bazel 845116d3edcbdc31a572fc98bd73f69ca42c271c80a22f4678eab13560f4dca3
+ENV:TF_SYSTEM_LIBS \0

@@ -1,0 +1,4 @@
+3e9a84be94fbe76352744fc7a762b09e
+$MANAGED 
+FILE://third_party/jpeg:BUILD.bazel 2bca312b7113651c2bfe159854ee672edab3ee1c5a459a6a4c03e19ef133bcfc
+ENV:TF_SYSTEM_LIBS \0

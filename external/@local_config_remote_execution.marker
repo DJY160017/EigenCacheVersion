@@ -1,0 +1,5 @@
+6e49eb7ca8eb82c29847ce9dc4bf03ef
+FILE://third_party/toolchains/remote:BUILD.tpl e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+$MANAGED 
+FILE://third_party/toolchains/remote:execution.bzl.tpl d258577c2d934b43ac8974697a61f4b060b8fc076d4b9e723a67265f4fd08680
+ENV:REMOTE_GPU_TESTING \0
